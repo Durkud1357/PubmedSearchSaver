@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PubMedSearchSaver
 // @namespace    http://tampermonkey.net/
-// @version      2025-12-28
+// @version      1.0.0
 // @description  Script that enhances PubMed browsing experience by highlighting articles from previous saved searches. Wesołych Świąt!
 // @author       Durkud1357
 // @match        https://*.han3.wum.edu.pl/*
