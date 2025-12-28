@@ -26,10 +26,6 @@
     selectSeen();
 
 
-
-
-
-
     function storeSearch() {
         let params = new URLSearchParams(document.location.search);
         let r = params.get("term");
@@ -136,6 +132,4 @@
 
         setTimeout(() => div.remove(), timeout);
     }
-
-
 })();
